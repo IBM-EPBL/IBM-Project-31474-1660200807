@@ -1,0 +1,34 @@
+<html>
+    <head>
+        <title>
+            web Phishing
+        </title>
+        <link rel="stylesheet" href="code.css">
+    </head>
+    <body>
+        <img src="images.jpeg">
+        <header>
+            <div class="wrapper">
+               
+                <ul class="nav-area">
+                    <li><a href="#">Home</a></li>
+                    <li><a href="#">About</a></li>
+                    <li><a href="#">Services</a></li>
+                    <li><a href="#">Contact</a></li>
+                    <li>
+                    <a href="#" title="
+                    1. Login into the page
+                    2.After the login , click get started 
+                    3.Paste the link and click predict
+                    4. Results will be display" data-bs-toggle="popover" data-bs-trigger="hover" data-bs-content="">How to use</a></li>
+                    
+                </ul>
+            </div>
+            <div class="welcome-text">
+                <h1 style="color: rgb(245, 234, 234);">Web Phishing Detection</h1>
+                <a href="#">Get Started</a>
+            </div>
+        </header>
+    </body>
+
+</html>
